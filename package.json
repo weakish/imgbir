@@ -1,0 +1,28 @@
+{
+  "name": "imgbir",
+  "version": "0.0.0",
+  "description": "img.bi client",
+  "main": "bin/imgbir.coffee",
+  "bin": {
+    "imgbir": "bin/imgbir.coffee"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:weakish/imgbir.coffee.git"
+  },
+  "keywords": [
+    "img.bi"
+  ],
+  "author": "Jakukyo Friel <weakish@gmail.com> (http://weakish.github.io)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "coffee-script": "=1.8.0",
+    "shelljs": "=0.3.0",
+    "underscore.string": "2.3.3",
+    "imgbi": "0.0.4"
+  }
+
+}
