@@ -1,5 +1,11 @@
 Upload to [img.bi](https://img.bi), and remember the image links.
 
+## Install
+
+```sh
+sudo npm install -g imgbir
+```
+
 ## Usage
 
 Upload all images in the current directory:
@@ -16,7 +22,7 @@ imgbir
 Specify image(s) to upload:
 
 ```sh
-imgbir 1.jpg [2.png]
+imgbir 1.jpg [2.png ...]
 ```
 
 `imgbir` records view and remove links in `imagename.txt`.
