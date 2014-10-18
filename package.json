@@ -1,7 +1,9 @@
 {
   "name": "imgbir",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "img.bi client",
+  "homepage": "https://github.com/weakish/imgbir",
+  "bugs": "https://github.com/weakish/imgbir/issues",
   "main": "bin/imgbir.coffee",
   "bin": {
     "imgbir": "bin/imgbir.coffee"
@@ -11,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:weakish/imgbir.coffee.git"
+    "url": "git@github.com:weakish/imgbir.git"
   },
   "keywords": [
     "img.bi"
